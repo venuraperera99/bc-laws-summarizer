@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/bc-laws-summarizer/static/js/main.091e33bf.js",
+    "index.html": "/bc-laws-summarizer/index.html",
+    "main.091e33bf.js.map": "/bc-laws-summarizer/static/js/main.091e33bf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.091e33bf.js"
+  ]
+}
